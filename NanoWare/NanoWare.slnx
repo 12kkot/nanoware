@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NanoWare/NanoWare.vcxproj" Id="f88a5f80-f7fa-42de-a19e-a4bbe681eec8" />
+</Solution>
